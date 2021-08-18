@@ -127,9 +127,11 @@ I then recorded the vehicle recovering from the left side and right sides of the
 
 These images show what a recovery looks like starting from the right side of the road back to the center :
 
-<img src="./images/recovery1.jpg" alt="Recovery Image 1" width="250"/>
-<img src="./images/recovery2.jpg" alt="Recovery Image 2" width="250"/>
-<img src="./images/recovery3.jpg" alt="Recovery Image 3" width="250"/>
+![alt text][image5]
+
+![alt text][image3]
+
+![alt text][image4]
 
 Then I repeated this process in the other direction in order to get more data points.
 
